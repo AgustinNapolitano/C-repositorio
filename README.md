@@ -1,6 +1,3 @@
 # C-repositorio
 
-
-# Comentario nuevo.
-
-# Comentario por consola.
+# Este es el branch 3
